@@ -7,4 +7,4 @@ A Node.js API for managing transactions (income and expenses) using SQLite as th
 
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Venkatesh-mangali/Expense---tracker>
